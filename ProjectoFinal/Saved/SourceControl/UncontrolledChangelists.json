@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/MiVideoJuego.umap",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Inputs/IA_movimiento.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/GameMode/GameMode_ProyectoFinal.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Personaje/Spaceship_01_24x24_.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Personaje/Spaceship_01_24x24__Sprite.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/InputMapContex/IMP_PRUEBA.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/MapTest2D/TEST1.umap",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/MapTest2D/TEST2D.umap",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Mapa/Space01.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Mapa/Space01_TileSet.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Objetos/Asteroids_01.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Objetos/Asteroids_01_TileSet.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/BP_FInal.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Mapa/SpaceMap.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Objetos/Asteroids_01_Sprite_0.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Objetos/Asteroids_01_Sprite_1.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/BP_asteroide.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Inputs/IA_ArribaAbajo.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Interface/BPI_AumentarVelocidad.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Interface/BPI_Reset.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/ActorCamara/BP_Camara.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/ActorCamara/BP_camara2.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Mapa/Map_Space.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/BP_PersonajeFinal.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Maps/IMP_PRUEBA.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/BP_Prueba.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/BP_Personaje.uasset"
+			]
+		}
+	]
+}

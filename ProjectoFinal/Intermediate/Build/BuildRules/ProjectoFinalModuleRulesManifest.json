@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\playe\\Desktop\\Tecnicatura Videojueos\\Trabajos Practicos\\Entornos 3D\\MI JUEGO\\ProjectoFinal\\Intermediate\\Source\\ProjectoFinal.Build.cs",
+		"C:\\Users\\playe\\Desktop\\Tecnicatura Videojueos\\Trabajos Practicos\\Entornos 3D\\MI JUEGO\\ProjectoFinal\\Intermediate\\Source\\ProjectoFinal.Target.cs",
+		"C:\\Users\\playe\\Desktop\\Tecnicatura Videojueos\\Trabajos Practicos\\Entornos 3D\\MI JUEGO\\ProjectoFinal\\Intermediate\\Source\\ProjectoFinalClient.Target.cs",
+		"C:\\Users\\playe\\Desktop\\Tecnicatura Videojueos\\Trabajos Practicos\\Entornos 3D\\MI JUEGO\\ProjectoFinal\\Intermediate\\Source\\ProjectoFinalEditor.Target.cs",
+		"C:\\Users\\playe\\Desktop\\Tecnicatura Videojueos\\Trabajos Practicos\\Entornos 3D\\MI JUEGO\\ProjectoFinal\\Intermediate\\Source\\ProjectoFinalServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
