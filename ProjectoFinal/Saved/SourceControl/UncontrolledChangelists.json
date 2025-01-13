@@ -5,7 +5,31 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/MapTest2D/TEST2D.umap"
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/MapTest2D/TEST2D.umap",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Inputs/IA_movimiento.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/InputMapContex/IMP_PRUEBA.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/BP_FInal.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/BP_spawnMeteoro.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Objetos/Main_ship_weapon_-_Projectile_-_Rocket.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/BP_asteroide.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Objetos/Main_ship_weapon_-_Projectile_-_Rocket_Sprite_0.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Objetos/Main_ship_weapon_-_Projectile_-_Rocket_Sprite_1.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Objetos/Main_ship_weapon_-_Projectile_-_Rocket_Sprite_2.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Objetos/Main_ship_weapon_-_Projectile_-_Rocket_Sprite_3.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Objetos/Proyectil_Rocket.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/BP_Proyectil.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Inputs/IA_Shoot.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Interface/BPI_DestruirObstaculo.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/ActorCamara/BP_camara2.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Objetos/extra_Sprite_0.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/BP_fragmento.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Objetos/extra.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Objetos/extra_Sprite_1.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/Tiles/Objetos/icons.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/BP_fragmento_Child2.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/BP_fragmento_Child.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Blueprint/BP_fragmento_Child1.uasset",
+				"C:/Users/playe/Desktop/Tecnicatura Videojueos/Trabajos Practicos/Entornos 3D/MI JUEGO/ProjectoFinal/Content/Inputs/IA_ArribaAbajo.uasset"
 			]
 		}
 	]
